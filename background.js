@@ -1,7 +1,7 @@
 
 var ToolbarUIItemProperties = {
     title : "Page Cleaner",
-    icon : "icons/hello-button.png",
+    icon : "icons/pf_button_sq_grn_m.png",
     onclick : function() {
         if( button.disabled ) return;
         var tab = opera.extension.tabs.getFocused();
