@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" id="http://www.example.org/helloworld">
+<widget xmlns="http://www.w3.org/ns/widgets" id="https://github.com/lichangwei/page-cleaner" version="0.0.1">
     <name>Page Cleaner</name>
     <description>Extract main content from web pages.</description>
     <author href="lichangwei.me" email="lichangwei@love.com">Li Chang Wei</author>
